@@ -29,9 +29,3 @@ $ python plag.py
 
 # <img alt="PLAG" src="https://i.imgur.com/yDka1b4.png">
 
-## _Author Name_
-
-<!--Remove the below lines and add yours -->
-
-Darahaas Yajamanyam <br />
-[darahaas15](https://github.com/darahaas15)
