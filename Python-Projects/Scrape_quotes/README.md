@@ -13,5 +13,3 @@ Execute `python3 quote_scraper.py`
 <!--Remove the below lines and add yours -->
 ![Screenshot of the CSV file](Screenshot.png)
 
-## Author Name
-[Anandha Krishnan Aji](https://github.com/anandhakrishnanaji)
