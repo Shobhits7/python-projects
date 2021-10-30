@@ -13,6 +13,3 @@
 
 ### Screenshot/GIF showing the sample use of the script
 ![](demo.gif)
-
-## *Author Name*
-[Saicharan67](https://github.com/Saicharan67)
