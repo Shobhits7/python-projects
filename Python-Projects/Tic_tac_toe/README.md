@@ -21,6 +21,3 @@ python tic_tac_toe.py
 
 <!-- ## Screenshots/Demo -->
 
-## Authors
-- [Erfan Saberi](https://github.com/erfansaberi)
-- [Austin Jackson](https://github.com/vesche)
