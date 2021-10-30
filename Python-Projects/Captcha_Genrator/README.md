@@ -11,4 +11,4 @@ A simple image captcha genrator
 ### Screenshot
 ![image](https://user-images.githubusercontent.com/39544459/137623915-1e837ada-f199-4513-a15d-ecbb969fd53e.png)
 
-## *Mayur Singal*  
+## *Made By Shobhit Jain*  
