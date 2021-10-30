@@ -9,6 +9,3 @@ Just run "python main.py" in cmd command line after setting the project director
 ### Here you can see sample
 ![Image](./image.png)
 
-## *Author Name*
-
-[Javokhir](https://github.com/leader2one/)
